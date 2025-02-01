@@ -176,5 +176,4 @@ Here are the key commands used during this process:
 
 ---
 
-### Conclusion
-Congratulations! You've successfully set up a monitoring dashboard using Netdata. This setup allows you to monitor various system metrics and gain insights into your system's health. You can further explore customization options and integrate this into your DevOps workflows.
+### https://roadmap.sh/projects/simple-monitoring-dashboard
